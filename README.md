@@ -8,18 +8,18 @@ Requirements:
 - DO NOT use eval()
 - DO NOT return a "new Function()" to evaluate a string
 
-- Basic functions:
-    - Add
-    - Subtract
-    - Multiply
-    - Divide
-- Function Operate(): takes an operator and 2 numbers, and then calls one of the basic functions on the numbers
-- Basic HTML calculator with buttons for:
-    - Each digit
-    - Each of the basic functions (button for +, -, etc.)
-    - The Operate function (i.e., = button)
-    - Clearing the display
-    - Not a button: don't forget to include a basic display
+✓ - Basic functions:
+    ✓ - Add
+    ✓ - Subtract
+    ✓ - Multiply
+    ✓ - Divide
+✓ - Function Operate(): takes an operator and 2 numbers, and then calls one of the basic functions on the numbers
+✓ - Basic HTML calculator with buttons for:
+    ✓ - Each digit
+    ✓ - Each of the basic functions (button for +, -, etc.)
+    ✓ - The Operate function (i.e., = button)
+    ✓ - Clearing the display
+    ✓ - Not a button: don't forget to include a basic display
 - Functions to populate the display when you click the number buttons (you should store the display value in a variable so it can be used in next step)
 - Make it work!
     - Store the first number input into the calculator when a user presses an operator

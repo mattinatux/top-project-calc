@@ -7,11 +7,15 @@
 #mainContainer {
     background-color: lightblue;
     padding: 10;
+    display: flex;
 }
 
 #display {
     background-color: whitesmoke;
     padding: 10;
+    height: 60px;
+    width: auto;
+    border: 3px solid rgb(178,194,194);
 }
 
 #buttonsBox {
@@ -24,8 +28,25 @@
     padding: 10;
     color: ghostwhite;
     font-size: large;
+    min-width: 150px;
+    margin-left: 10;
+    padding: 10;
+    border: 3.5px solid darkslategray;
 }
 
 .buttonsAll {
+    background-color: rgb(178,194,194);
+    border: none;
+    width: 40px;
+    height: 40px;
+    font-size: x-large;
+    margin: 2;
+    padding: 0;
+    text-align: center;
+    text-justify: center;
+}
+
+.buttonsAll#equal {
+    /* TODO: make this span the remaining space */
     background-color: red;
 }
