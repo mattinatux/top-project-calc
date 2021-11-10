@@ -1,0 +1,31 @@
+#wireframe {
+    background-color: lightsalmon;
+    padding: 10;
+    margin-top: 10;
+}
+
+#mainContainer {
+    background-color: lightblue;
+    padding: 10;
+}
+
+#display {
+    background-color: whitesmoke;
+    padding: 10;
+}
+
+#buttonsBox {
+    background-color: lightgreen;
+    padding: 10;
+}
+
+#transactionTape {
+    background-color: lightslategray;
+    padding: 10;
+    color: ghostwhite;
+    font-size: large;
+}
+
+.buttonsAll {
+    background-color: red;
+}
