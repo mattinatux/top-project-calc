@@ -43,3 +43,6 @@ Requirements:
     - Pressing “clear” should wipe out any existing data.. make sure the user is really starting fresh after pressing “clear”
     
     - Display a snarky error message if the user tries to divide by 0… don’t let it crash your calculator!
+
+Time Log:
+- about 2.5 hours from nothing to storing the button clicks (on way to making it work)
